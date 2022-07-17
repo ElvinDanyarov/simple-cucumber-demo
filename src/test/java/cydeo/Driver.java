@@ -21,6 +21,7 @@ public class Driver {
     private Driver() {
     }
     //test comment
+    //new comment after trigger setup
 
     private static WebDriver driver;
 
